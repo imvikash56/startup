@@ -56,7 +56,7 @@ const Login = () => {
             <br></br>
             <Button color='primary' block style={iconStyles}>
               <Twitter size={14} style={iconStyles} />
-              Login via Twiter
+              Login via Twitter
             </Button>
 
             <br></br>
